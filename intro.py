@@ -1,4 +1,4 @@
-
+'''
    ##Introduction To Python##
    
 What Is Python?
@@ -9,7 +9,7 @@ What Is Python?
 Why use python?
   1] Python is general-purpose programming language that has simple easy-to-learn syntax that emhpasizes and therefore reduces the cost of program maintenace.
   2] Moreover, the language is capable of scripting, is completely open source and support third-party packages encouraging modularity and reuse.
-  
+  2] It's high level data structures combined with dynamic typing and dynamic binding, attract a huge community of developers for rapid application deveplopment and deployment.
   
   
   
